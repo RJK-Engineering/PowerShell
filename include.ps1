@@ -1,0 +1,1 @@
+. "$PSScriptRoot\functions.ps1"
